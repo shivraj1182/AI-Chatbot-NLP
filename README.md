@@ -1,8 +1,8 @@
-# 🤖 AI-Chatbot-NLP
+#  AI-Chatbot-NLP
 
 AI-powered chatbot using NLP techniques for intent classification and automated customer support. Built with Python, NLTK, spaCy, TensorFlow, and Flask/Streamlit deployment.
 
-## 📋 Table of Contents
+##  Table of Contents
 
 - [Overview](#overview)
 - [Features](#features)
@@ -13,11 +13,11 @@ AI-powered chatbot using NLP techniques for intent classification and automated 
 - [Contributing](#contributing)
 - [License](#license)
 
-## 🎯 Overview
+##  Overview
 
 This project implements an intelligent chatbot using Natural Language Processing (NLP) techniques. The chatbot can understand user intents, extract relevant information from user queries, and generate appropriate responses. It supports both command-line interaction and web-based deployment using Streamlit.
 
-## ✨ Features
+##  Features
 
 - **Intent Classification**: Uses NLP to classify user queries into predefined intents
 - **Text Preprocessing**: Tokenization, lemmatization, and stop-word removal
@@ -27,7 +27,7 @@ This project implements an intelligent chatbot using Natural Language Processing
 - **Multiple NLP Libraries**: NLTK, spaCy, and TensorFlow support
 - **Multi-turn Conversations**: Maintains conversation history
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 AI-Chatbot-NLP/
@@ -74,7 +74,7 @@ AI-Chatbot-NLP/
    python -c "import nltk; nltk.download('punkt'); nltk.download('wordnet')"
    ```
 
-## 💻 Usage
+##  Usage
 
 ### Using Streamlit Web Application
 
@@ -97,7 +97,7 @@ response = chatbot.chat("Hello!")
 print(response)
 ```
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 ### Core Libraries
 - **NLTK**: Natural Language Toolkit for text processing
@@ -114,18 +114,18 @@ print(response)
 - **NumPy**: Numerical computing
 - **Matplotlib & Seaborn**: Data visualization
 
-## 📊 Key Work Done
+##  Key Work Done
 
-✅ Collected and structured intent-response dataset (data/intents.json)
-✅ Implemented text preprocessing pipeline (tokenization, lemmatization, stop-word removal)
-✅ Built intent classification model using Bag-of-Words
-✅ Implemented feature extraction and vectorization
-✅ Created rule-based fallback logic for unrecognized queries
-✅ Developed Streamlit web interface
-✅ Added multi-turn conversation support
-✅ Implemented proper error handling
+- Collected and structured intent-response dataset (data/intents.json)
+- Implemented text preprocessing pipeline (tokenization, lemmatization, stop-word removal)
+- Built intent classification model using Bag-of-Words
+- Implemented feature extraction and vectorization
+- Created rule-based fallback logic for unrecognized queries
+- Developed Streamlit web interface
+- Added multi-turn conversation support
+- Implemented proper error handling
 
-## 🎓 Learning Outcomes
+##  Learning Outcomes
 
 - Proficiency in NLP preprocessing and feature engineering
 - Intent classification techniques
@@ -134,7 +134,7 @@ print(response)
 - Handling multi-turn conversations
 - Integration of multiple NLP libraries
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! Here's how you can help:
 
@@ -144,18 +144,18 @@ Contributions are welcome! Here's how you can help:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📝 License
+##  License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👤 Author
+##  Author
 
 **Shivraj1182**
 
 - GitHub: [@shivraj1182](https://github.com/shivraj1182)
-- Email: shivraj1182@example.com
+- Email: shivraj2005@gmail.com
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - NLTK documentation and community
 - spaCy for excellent NLP tools
