@@ -43,7 +43,7 @@ AI-Chatbot-NLP/
 └── .gitignore            # Git ignore rules
 ```
 
-## 🚀 Installation
+##  Installation
 
 ### Prerequisites
 
