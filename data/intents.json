@@ -1,0 +1,34 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": ["Hi", "Hello", "Hey", "Good morning", "Good afternoon"],
+      "responses": ["Hello! How can I help you today?", "Hi there! What can I do for you?", "Greetings! How may I assist you?"]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": ["Bye", "Goodbye", "See you later", "Farewell", "Take care"],
+      "responses": ["Goodbye! Have a great day!", "See you later!", "Take care!"]
+    },
+    {
+      "tag": "help",
+      "patterns": ["Help", "Can you help", "I need assistance", "Need help", "Support"],
+      "responses": ["Sure, I'm here to help! What do you need?", "Of course! What can I assist you with?", "I'd be happy to help. What's your question?"]
+    },
+    {
+      "tag": "about",
+      "patterns": ["About", "What is this", "Tell me about", "Information"],
+      "responses": ["I'm an AI Chatbot designed to help you with various queries using NLP techniques.", "I'm a smart chatbot powered by Natural Language Processing and Machine Learning."]
+    },
+    {
+      "tag": "thanks",
+      "patterns": ["Thanks", "Thank you", "Appreciate it", "Thanks a lot"],
+      "responses": ["You're welcome!", "Happy to help!", "Anytime! Feel free to ask if you need anything else."]
+    },
+    {
+      "tag": "how_are_you",
+      "patterns": ["How are you", "How do you do", "How's it going"],
+      "responses": ["I'm doing great! How can I assist you?", "I'm functioning perfectly! How can I help you today?"]
+    }
+  ]
+}
